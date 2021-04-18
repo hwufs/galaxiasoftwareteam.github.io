@@ -6,12 +6,6 @@ body {
   background: rgb(20, 20, 20);
 }
 
-td {
-  border: 1px;
-  border-color: gray;
-  border-style: solid;
-}
-
 .logo {
   background: rgb(117, 74, 255);
   background: -moz-linear-gradient(
@@ -30,9 +24,6 @@ td {
     rgba(169, 74, 255, 1) 100%
   );
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#754aff",endColorstr="#a94aff",GradientType=1);
-}
-
-.logo {
   padding: 35px 0px 15px 0px;
   width: 100%;
   margin-top: 10px;
